@@ -1,2 +1,2 @@
-# BUAA_OS
-This is a operating system designed in BUAA.
+# Operation System(C)
+An operation system designed in the 2022-Spring OS course in BUAA.
